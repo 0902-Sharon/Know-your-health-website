@@ -1,4 +1,4 @@
-# Master Branch: Work in progress, Adding contracts fucntionality
+# Master Branch: Work in progress, Adding contracts functionality
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
